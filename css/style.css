@@ -1,0 +1,9 @@
+.bg-image{
+    min-height: 100vh;
+    background:url(../images/about.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.mask-list{
+    padding-top: 200px;
+}
